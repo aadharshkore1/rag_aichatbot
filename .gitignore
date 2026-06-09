@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+
+# React Build
+build/
+
+# Uploaded PDFs
+uploaded_pdfs/
+
+# OS Files
+.DS_Store
+Thumbs.db
